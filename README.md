@@ -2,9 +2,9 @@ HoSHIZA
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HoSHIZA&theme=dracula)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoSHIZA&theme=dracula&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@HoSHIZA&theme=dracula)](https://wakatime.com/@HoSHIZA)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HoSHIZA&theme=radical)](https://github.com/HoSHIZA)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoSHIZA&count_private=true&show_icons=true&theme=radical)](https://github.com/HoSHIZA)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@HoSHIZA&theme=radical)](https://wakatime.com/@HoSHIZA)
 
 ---
 
