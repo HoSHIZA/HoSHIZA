@@ -32,7 +32,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/HoSHIZA/">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@HoSHIZA&theme=radical&hide_border=true"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@HoSHIZA&theme=radical&hide_border=true"/>
   </a>
 </p>
 
