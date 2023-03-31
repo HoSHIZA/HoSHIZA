@@ -23,6 +23,15 @@
   </a>
 </p>
 
+<h2 align="center"> Contact Me </h2>
+<p align="center">
+    <a href="https://t.me/NeuroSHIZA"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram"/></a>
+    <a href="https://discordapp.com/users/416631033836863488/"><img src="https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord"/></a>
+    <a href="mailto:hoshiza78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail"/></a>
+    <a href="https://www.youtube.com/@hoshiza"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
+    <a href="https://steamcommunity.com/id/hoshiza/"><img src="https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam"/></a>
+</p>
+
 <h2 align="center"> Github Profile stats </h2>
 <p align="center">
   <a href="https://github.com/HoSHIZA/">
