@@ -26,13 +26,13 @@
 <h2 align="center"> Github Profile stats </h2>
 <p align="center">
   <a href="https://github.com/HoSHIZA/">
-    <img width="35%" src="https://github-readme-stats.vercel.app/api?username=HoSHIZA&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
-    <img width="37.1%" src="https://streak-stats.demolab.com?user=HoSHIZA&theme=radical&hide_border=true"/>
+    <img width="85%" src="https://streak-stats.demolab.com?user=HoSHIZA&theme=radical&hide_border=true"/>
+    <img width="85%" src="https://github-readme-stats.vercel.app/api?username=HoSHIZA&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/HoSHIZA/">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@HoSHIZA&theme=radical&hide_border=true"/>
+    <img width="85%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@HoSHIZA&theme=radical&hide_border=true"/>
   </a>
 </p>
 
