@@ -11,7 +11,14 @@
   
 <h2 align="center"> About Me </h2>
 <p align="center">
-  <a href="https://github.com/HoSHIZA/"></a>
+  <a href="https://github.com/HoSHIZA/">
+    
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/HoSHIZA/">
+    <img src="https://profile-counter.glitch.me/HoSHIZA/count.svg"/>
+  </a>
 </p>
 
 <h2 align="center"> Technology Stack </h2>
@@ -42,11 +49,11 @@
 </p>
 
 <h2 align="center"> Github Profile stats </h2>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/HoSHIZA/">
     <img src="https://profile-counter.glitch.me/HoSHIZA/count.svg"/>
   </a>
-</p>
+</p> -->
 <p align="center">
   <a href="https://github.com/HoSHIZA/">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=HoSHIZA&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
@@ -55,7 +62,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/HoSHIZA/">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@HoSHIZA&theme=radical&hide_border=true"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=HoSHIZA&layout=compact&theme=radical&hide_border=true&v=2"/>
   </a>
 </p>
   
