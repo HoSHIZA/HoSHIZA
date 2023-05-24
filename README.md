@@ -55,11 +55,11 @@
     <img width="47.75%" src="https://streak-stats.demolab.com?user=HoSHIZA&theme=radical&hide_border=true"/>
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/HoSHIZA/">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=HoSHIZA&layout=compact&theme=radical&hide_border=true&v=2"/>
   </a>
-</p>
+</p> -->
 
 <img src="https://raw.githubusercontent.com/HoSHIZA/HoSHIZA/bfcdc929ee369c5f919a02d246ebf6fca2383846/.github/styling/waves.svg" width="100%" height="100">
   
