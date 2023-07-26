@@ -4,9 +4,11 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/HoSHIZA">HoSHIZA</a> - Unity Developer</h1>
 
 <div align="center">
-  <a href="https://github.com/HoSHIZA">
-    <img src="https://github.com/HoSHIZA/HoSHIZA/blob/output/github-contribution-grid-snake.svg" alt="snake.exe"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HoSHIZA/HoSHIZA/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/HoSHIZA/HoSHIZA/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <h2 align="center"> About Me </h2>
