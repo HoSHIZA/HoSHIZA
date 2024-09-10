@@ -13,23 +13,15 @@
 
 <h2 align="center"> About Me </h2>
 <p align="center">
-  <a href="https://github.com/HoSHIZA/">
-    
-  </a>
+  Unity developer, I create interactive projects and explore new technologies. I like to optimize processes and find creative solutions.
 </p>
-<p align="center">
-  <a href="https://github.com/HoSHIZA/">
-    <img src="https://profile-counter.glitch.me/HoSHIZA/count.svg" alt="user_counter.exe"/>
-  </a>
-</p>
+
 
 <h2 align="center"> Technology Stack </h2>
 <p align="center">
   <a href="https://github.com/HoSHIZA/">
     <img src="https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=954790" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-GO-090909?style=for-the-badge&logo=go" alt="badge.exe"/>
-    <img src="https://img.shields.io/badge/-Rust-090909?style=for-the-badge&logo=rust" alt="badge.exe"/>
+    <img src="https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp" alt="badge.exe"/>
     <img src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python" alt="badge.exe"/>
     <img src="https://img.shields.io/badge/-Markdown-090909?style=for-the-badge&logo=markdown" alt="badge.exe"/>
     </br>
@@ -51,6 +43,11 @@
 </p>
 
 <h2 align="center"> Github Profile stats </h2>
+<p align="center">
+  <a href="https://github.com/HoSHIZA/">
+    <img src="https://profile-counter.glitch.me/HoSHIZA/count.svg" alt="user_counter.exe"/>
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/HoSHIZA/">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=HoSHIZA&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
